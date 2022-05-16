@@ -2,7 +2,8 @@
 
 ### Hi there, I'm Francisco Borja 👋
 
- ![visitors](https://visitor-badge.glitch.me/badge?page_id=franclobo.id&left_color=green&right_color=red)
+ ![visitors](https://visitor-badge.glitch.me/badge?page_id=franclobo.id&left_color=green&right_color=rd)
+ [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=francloboa)](https://github.com/franclobo/github-readme-stats)
 <!--
 **franclobo/franclobo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
