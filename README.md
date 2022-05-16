@@ -2,8 +2,11 @@
 
 ### Hi there, I'm Francisco Borja 👋
 
-![visitors](https://visitor-badge.glitch.me/badge?page_id=franclobo.id&left_color=green&right_color=rd)
+
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=franclobo)](https://github.com/anuraghazra/github-readme-stats)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true)
+
+![visitors](https://visitor-badge.glitch.me/badge?page_id=franclobo.id&left_color=green&right_color=rd)
 <!--
 **franclobo/franclobo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
