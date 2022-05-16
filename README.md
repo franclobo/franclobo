@@ -7,7 +7,6 @@
 🌱 I’m currently learning TESTING AND BEST PRACTICES.
 <center>
   <h2> Availible for hiring </h2>
-  </center>
 
 📫 How to reach me:
 - GitHub: [@franclobo](https://github.com/franclobo)
