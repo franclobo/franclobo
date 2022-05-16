@@ -6,6 +6,7 @@
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=franclobo&show_icons=true&count_private=true&theme=tokyonight)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=franclobo&langs_count=8&layout=compact)
+![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=franclobo)
 
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=franclobo.id&left_color=green&right_color=rd)
 <!--
