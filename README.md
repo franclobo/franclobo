@@ -2,16 +2,23 @@
 
 ### Hi there, I'm Francisco Borja 👋
 
+🔭 I’m currently working on second module, third block of Microverse course.
 
+🌱 I’m currently learning TESTING AND BEST PRACTICES.
+<center>
+  <h2> Availible for hiring </h2>
+  </center>
+
+📫 How to reach me:
+- GitHub: [@franclobo](https://github.com/franclobo)
+
+- Twitter: [@pancho2788](https://twitter.com/Pancho2788)
+
+- LinkedIn: [Francisco Borja](https://www.linkedin.com/in/francisco-borja-lobato/)
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=franclobo&show_icons=true&count_private=true&theme=tokyonight)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=franclobo&langs_count=8&layout=compact)
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats" />
-</a>
-<a href="https://github.com/anuraghazra/convoychat">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=convoychat" />
-</a>
+
 
 
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=franclobo.id&left_color=green&right_color=rd)
