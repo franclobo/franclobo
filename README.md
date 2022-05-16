@@ -2,7 +2,7 @@
 
 ### Hi there, I'm Francisco Borja 👋
 
- ![visitors](https://visitor-badge.glitch.me/badge?page_id=page.id&left_color=green&right_color=red)
+ ![visitors](https://visitor-badge.glitch.me/badge?page_id=franclobo.id&left_color=green&right_color=red)
 <!--
 **franclobo/franclobo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
