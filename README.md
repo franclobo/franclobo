@@ -4,7 +4,7 @@
 
 🔭 I’m currently working on second module, third block of Microverse course.
 
-🌱 I’m currently learning TESTING AND BEST PRACTICES.
+🌱 I’m currently learning APIS.
 <center>
   <h2> Available for hiring </h2>
 
