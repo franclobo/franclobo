@@ -2,7 +2,7 @@
 
 ### Hi there, I'm Francisco Borja 👋
 
-🔭 I’m currently working on second module, third block of Microverse course.
+🔭 I’m currently working on the third module, first block of Microverse course.
 
 🌱 I’m currently learning APIS.
 <center>
