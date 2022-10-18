@@ -2,9 +2,9 @@
 
 ### Hi there, I'm Francisco Borja 👋
 
-🔭 I’m currently working on the third module, first block of Microverse course.
+🔭 I’m currently working on the fifth module, Final Capstone of Microverse course.
 
-🌱 I’m currently learning REACT.
+🌱 I’m currently learning REACT & REDUX with RUBY on RAILS.
 <center>
   <h2> Available for hiring </h2>
 
