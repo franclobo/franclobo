@@ -2,18 +2,13 @@
 
 ### Hi there, I'm Francisco Borja 👋
 
-🔭 I’m currently working on the fifth module, Final Capstone of Microverse course.
+🔭 I’m currently working updating my potfolio.
 
-🌱 I’m currently learning REACT & REDUX with RUBY on RAILS.
+🌱 I’m currently using REACT & REDUX with RUBY on RAILS.
 <center>
   <h2> Available for hiring </h2>
 
-📫 How to reach me:
-- GitHub: [@franclobo](https://github.com/franclobo)
-
-- Twitter: [@pancho2788](https://twitter.com/Pancho2788)
-
-- LinkedIn: [Francisco Borja](https://www.linkedin.com/in/francisco-borja-lobato/)
+## 📫 How to reach me: [![image](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/Pancho2788) [![image](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/francisco-borja-lobato/)
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=franclobo&show_icons=true&count_private=true&theme=tokyonight)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=franclobo&langs_count=8&layout=compact)
